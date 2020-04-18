@@ -2,7 +2,7 @@
 <html lang="pt-br">
 <head>
     <?php require_once 'commons/meta-charsets.php'; ?>
-    <title>Dicionarus - Calão e Gírias Angolanas</title>
+    <title>Expressões - Calão e Gírias Angolanas</title>
 </head>
 
 <body>
@@ -12,7 +12,7 @@
         class="navbar navbar-expand-sm navbar-dark" 
         style="background-color: #221B2F; color: #fff;">
         
-        <h2 class="h2">Dicionarius Angola</h2>
+        <h2 class="h2">Expressões</h2>
     </div>
 
     <?php require_once 'commons/navbar.php'; ?>

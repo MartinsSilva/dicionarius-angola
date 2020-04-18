@@ -2,7 +2,7 @@
 <html lang="pt-br">
 <head>
     <?php require_once 'commons/meta-charsets.php'; ?>
-    <title>Dicionarus - Calão e Gírias Angolanas</title>
+    <title>Objectos - Calão e Gírias Angolanas</title>
 </head>
 
 <body>

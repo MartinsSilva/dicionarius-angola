@@ -1,33 +1,41 @@
 <!DOCTYPE html>
 <html lang="pt-br">
-
 <head>
     <?php require_once 'commons/meta-charsets.php'; ?>
     <title>Vocábulos - Calão e Gírias Angolanas</title>
 </head>
 
 <body>
-    <div class="navbar navbar-expand-sm navbar-dark" id="topo">
-        <h2>Vocábulos comuns</h2>
+    <?php require_once 'commons/line-bar.php'; ?>
+    
+    <div 
+        class="navbar navbar-expand-sm navbar-dark" 
+        style="background-color: #221B2F; color: #fff;">
+        <h2 class="h2">Vocábulos comuns</h2>
     </div>
 
     <?php require_once 'commons/navbar.php'; ?>
 
-    <div class="container mt-5">
-        <h3 class="text-center mt-2 mb-2">O que você procurar?</h3>
-        <center>
-            <input class="pes" type="text" placeholder="Mete uma palavra Camone (amigo)" />
-                <span id="box_icone_busca">
-                    <i id="icone_busca" class="fa fa-search"></i>
-                </span>
-        </center>
-    </div>
+<?php require_once 'commons/navbar.php'; ?>
 
-    <div class="container mt-5">
-        <div class="row" id="centro"></div>
-    </div>
+    <?php require_once 'commons/navbar.php'; ?>
 
-    <script src="./js/vocabulary.js"></script>
+    <?php require_once 'commons/navbar.php'; ?>
+
+    <?php require_once 'commons/navbar.php'; ?>
+
+    <?php require_once 'commons/navbar.php'; ?>
+
+    <?php require_once 'commons/navbar.php'; ?>
+
+    <?php require_once 'commons/navbar.php'; ?>
+
+    <?php require_once './commons/form-search.php'; ?>
+
+    <?php require_once './commons/result-search.php'; ?>
+
+    <script src="./main/vocabulary.js"></script>
+    <script src="./main/search/search-vocabulary.js"></script>
 </body>
 
 </html>

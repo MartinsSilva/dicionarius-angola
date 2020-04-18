@@ -1,6 +1,10 @@
 [
 	{
-    "dialect": "Kimbombo",
-    "meanings": ["Bebida feita com cana e muito açucar, ela é muito viciante."]
-  }
+    	"dialect": "Kimbombo",
+    	"meanings": ["Bebida feita com cana e muito açucar, ela é muito viciante."]
+  	},
+  	{
+    	"dialect": "Kissamgua",
+    	"meanings": ["Bebida adoçante feita geralmente com a fuba de milho, muito consumida pela comunidade Adventista do Sétimo Dia."]
+  	}
 ]

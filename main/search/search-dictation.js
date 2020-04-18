@@ -11,7 +11,7 @@ async function searchJSON(term) {
   const data = await res.json();
 
   const filter = data.filter(name => {
-    const filterRegex = new RegExp(`^${term}`);
+    const filterRegex = new RegExp(`^${term}`, `gi`);
     return name.dialect.match(filterRegex);
   });
 

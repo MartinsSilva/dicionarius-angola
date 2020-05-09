@@ -173,5 +173,20 @@
       "dialect": "Mayar",
       "meanings": ["Disperdiçar oportunidades"],
       "examples": ["- Mayaste muito. Por isso perdeste; - Você maya muito."]
-    }
+    },
+	{
+    "dialect": "Gasosa",
+    "meanings": ["Dinheiro ou qualquer coisa de valor que se entrega a alguém com o objectivo de corromper ou subornar"],
+    "examples": ["- Esse aí é baiano; - Não brinca! Aquele é baiano"]
+  },
+  {
+    "dialect": "paiar",
+    "meanings": ["Vender","Refere-se também a uma situação desagradável."],
+    "examples": ["- Vou paiar umas coisas; - Fiquei sem net para concluir a pesquisa! Estou paiado."]
+  },
+  {
+    "dialect": "Pinar",
+    "meanings": ["Roubar","Assaltar"],
+    "examples": ["- Alguém pinou o meu telefone; - Pinaram na loja ao lado"]
+  }
 ]

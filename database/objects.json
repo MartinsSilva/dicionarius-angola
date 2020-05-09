@@ -3,5 +3,29 @@
     "dialect": "Ruka",
     "meanings": ["Carro"],
     "examples": ["- Já vou ter meu ruka; - Esse ruka é de quem?"]
+  },
+  {
+    "dialect": "Baica (Baika)",
+    "meanings": ["Telefone"],
+    "examples": ["- Este baica é meu; - Vou comprar um baika"]
+  },
+
+  {
+    "dialect": "Buba",
+    "meanings": ["Telefone"],
+    "examples": ["- O meu buba está sem sinal; - O seu buba estava desligado porquê?"]
+  },
+
+  {
+    "dialect": "Teipe",
+    "meanings": ["Tv"],
+    "examples": ["- Ligue a teipe; - A minha teipe quebrou"]
+  },
+
+  {
+    "dialect": "Piso",
+    "meanings": ["Calçado"],
+    "examples": ["- Comprei um piso novo; - Esse piso é a nova moda"]
   }
+
 ]
